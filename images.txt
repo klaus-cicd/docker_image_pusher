@@ -1,5 +1,5 @@
 nginx
-nynamisaka/jellyfin
+nyanmisaka/jellyfin
 louislam/dockge:1
 gdy666/lucky
 #支持私库
