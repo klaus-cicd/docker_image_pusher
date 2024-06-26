@@ -10,3 +10,4 @@ xhofe/alist:latest
 dreamacro/clash
 haishanh/yacd
 centralx/clash
+xhofe/alist:latest
